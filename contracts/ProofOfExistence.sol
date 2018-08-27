@@ -17,7 +17,7 @@ contract ProofOfExistence {
       */
     function addPhotoToMap(string photoHash) public returns (bool) {
         bytes memory byteStr = bytes(photoHash);
-        require(byteStr.length == photoHashLength, "Invalid hash");
+        require(byteStr.length == photoHashLength);
 
         if(photoToOwnerMap[photoHash].owner == 0 && photoToOwnerMap[photoHash].blockTime == 0){
             photoToOwnerMap[photoHash] = OwnershipTime(msg.sender, now);
@@ -34,7 +34,7 @@ contract ProofOfExistence {
       */
     function getPhotoTimestamp(string photoHash) public view returns(uint) {
         bytes memory byteStr = bytes(photoHash);
-        require(byteStr.length == photoHashLength, "Invalid hash");
+        require(byteStr.length == photoHashLength);
 
         if(photoToOwnerMap[photoHash].blockTime <= 0){
             return 0;
