@@ -40,24 +40,24 @@
       "type": "function"
     }
   ],
-  "bytecode": "0x6080604052604060015534801561001557600080fd5b506104cb806100256000396000f30060806040526004361061004c576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680635fa3bc8314610051578063c56637ec146100d2575b600080fd5b34801561005d57600080fd5b506100b8600480360381019080803590602001908201803590602001908080601f016020809104026020016040519081016040528093929190818152602001838380828437820191505050505050919291929050505061014f565b604051808215151515815260200191505060405180910390f35b3480156100de57600080fd5b50610139600480360381019080803590602001908201803590602001908080601f016020809104026020016040519081016040528093929190818152602001838380828437820191505050505050919291929050505061038f565b6040518082815260200191505060405180910390f35b60006060829050600154815114151561016757600080fd5b600080846040518082805190602001908083835b6020831015156101a0578051825260208201915060208101905060208303925061017b565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff161480156102875750600080846040518082805190602001908083835b60208310151561024e5780518252602082019150602081019050602083039250610229565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060010154145b1561037b5760408051908101604052803373ffffffffffffffffffffffffffffffffffffffff168152602001428152506000846040518082805190602001908083835b6020831015156102ef57805182526020820191506020810190506020830392506102ca565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060008201518160000160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555060208201518160010155905050610384565b60009150610389565b600191505b50919050565b6000606082905060015481511415156103a757600080fd5b600080846040518082805190602001908083835b6020831015156103e057805182526020820191506020810190506020830392506103bb565b6001836020036101000a0380198251168184511680821785525050505050509050019150509081526020016040518091039020600101541115156104275760009150610499565b6000836040518082805190602001908083835b60208310151561045f578051825260208201915060208101905060208303925061043a565b6001836020036101000a03801982511681845116808217855250505050505090500191505090815260200160405180910390206001015491505b509190505600a165627a7a72305820282824788ef24137ea40f723e6f83fd591bb553ec15329f95d841edc12f04fb30029",
-  "deployedBytecode": "0x60806040526004361061004c576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680635fa3bc8314610051578063c56637ec146100d2575b600080fd5b34801561005d57600080fd5b506100b8600480360381019080803590602001908201803590602001908080601f016020809104026020016040519081016040528093929190818152602001838380828437820191505050505050919291929050505061014f565b604051808215151515815260200191505060405180910390f35b3480156100de57600080fd5b50610139600480360381019080803590602001908201803590602001908080601f016020809104026020016040519081016040528093929190818152602001838380828437820191505050505050919291929050505061038f565b6040518082815260200191505060405180910390f35b60006060829050600154815114151561016757600080fd5b600080846040518082805190602001908083835b6020831015156101a0578051825260208201915060208101905060208303925061017b565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff161480156102875750600080846040518082805190602001908083835b60208310151561024e5780518252602082019150602081019050602083039250610229565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060010154145b1561037b5760408051908101604052803373ffffffffffffffffffffffffffffffffffffffff168152602001428152506000846040518082805190602001908083835b6020831015156102ef57805182526020820191506020810190506020830392506102ca565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060008201518160000160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555060208201518160010155905050610384565b60009150610389565b600191505b50919050565b6000606082905060015481511415156103a757600080fd5b600080846040518082805190602001908083835b6020831015156103e057805182526020820191506020810190506020830392506103bb565b6001836020036101000a0380198251168184511680821785525050505050509050019150509081526020016040518091039020600101541115156104275760009150610499565b6000836040518082805190602001908083835b60208310151561045f578051825260208201915060208101905060208303925061043a565b6001836020036101000a03801982511681845116808217855250505050505090500191505090815260200160405180910390206001015491505b509190505600a165627a7a72305820282824788ef24137ea40f723e6f83fd591bb553ec15329f95d841edc12f04fb30029",
-  "sourceMap": "66:1781:2:-;;;262:2;231:33;;66:1781;8:9:-1;5:2;;;30:1;27;20:12;5:2;66:1781:2;;;;;;;",
-  "deployedSourceMap": "66:1781:2:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;768:416;;8:9:-1;5:2;;;30:1;27;20:12;5:2;768:416:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1504:341;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1504:341:2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;768:416;825:4;841:20;870:9;841:39;;916:15;;898:7;:14;:33;890:42;;;;;;;;982:1;946:15;962:9;946:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;946:26:2;;;;;;;;;;;;;;;;;;;;;:32;;;;;;;;;;;;:37;;;:82;;;;;1027:1;987:15;1003:9;987:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;987:26:2;;;;;;;;;;;;;;;;;;;;;:36;;;:41;946:82;943:213;;;1072:30;;;;;;;;;1086:10;1072:30;;;;;;1098:3;1072:30;;;1043:15;1059:9;1043:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;1043:26:2;;;;;;;;;;;;;;;;;;;;;:59;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;943:213;;;1140:5;1133:12;;;;943:213;1173:4;1166:11;;768:416;;;;;:::o;1504:341::-;1569:4;1585:20;1614:9;1585:39;;1660:15;;1642:7;:14;:33;1634:42;;;;;;;;1730:1;1690:15;1706:9;1690:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;1690:26:2;;;;;;;;;;;;;;;;;;;;;:36;;;:41;;1687:152;;;1753:1;1746:8;;;;1687:152;1792:15;1808:9;1792:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;1792:26:2;;;;;;;;;;;;;;;;;;;;;:36;;;1785:43;;1504:341;;;;;:::o",
+  "bytecode": "0x6080604052604060015534801561001557600080fd5b506104cb806100256000396000f30060806040526004361061004c576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680635fa3bc8314610051578063c56637ec146100d2575b600080fd5b34801561005d57600080fd5b506100b8600480360381019080803590602001908201803590602001908080601f016020809104026020016040519081016040528093929190818152602001838380828437820191505050505050919291929050505061014f565b604051808215151515815260200191505060405180910390f35b3480156100de57600080fd5b50610139600480360381019080803590602001908201803590602001908080601f016020809104026020016040519081016040528093929190818152602001838380828437820191505050505050919291929050505061038f565b6040518082815260200191505060405180910390f35b60006060829050600154815114151561016757600080fd5b600080846040518082805190602001908083835b6020831015156101a0578051825260208201915060208101905060208303925061017b565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff161480156102875750600080846040518082805190602001908083835b60208310151561024e5780518252602082019150602081019050602083039250610229565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060010154145b1561037b5760408051908101604052803373ffffffffffffffffffffffffffffffffffffffff168152602001428152506000846040518082805190602001908083835b6020831015156102ef57805182526020820191506020810190506020830392506102ca565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060008201518160000160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555060208201518160010155905050610384565b60009150610389565b600191505b50919050565b6000606082905060015481511415156103a757600080fd5b600080846040518082805190602001908083835b6020831015156103e057805182526020820191506020810190506020830392506103bb565b6001836020036101000a0380198251168184511680821785525050505050509050019150509081526020016040518091039020600101541115156104275760009150610499565b6000836040518082805190602001908083835b60208310151561045f578051825260208201915060208101905060208303925061043a565b6001836020036101000a03801982511681845116808217855250505050505090500191505090815260200160405180910390206001015491505b509190505600a165627a7a723058205127eb02d6e97a7847cb2492d5ae4a74a0099ed108085c854d9425f91b3fe6b20029",
+  "deployedBytecode": "0x60806040526004361061004c576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680635fa3bc8314610051578063c56637ec146100d2575b600080fd5b34801561005d57600080fd5b506100b8600480360381019080803590602001908201803590602001908080601f016020809104026020016040519081016040528093929190818152602001838380828437820191505050505050919291929050505061014f565b604051808215151515815260200191505060405180910390f35b3480156100de57600080fd5b50610139600480360381019080803590602001908201803590602001908080601f016020809104026020016040519081016040528093929190818152602001838380828437820191505050505050919291929050505061038f565b6040518082815260200191505060405180910390f35b60006060829050600154815114151561016757600080fd5b600080846040518082805190602001908083835b6020831015156101a0578051825260208201915060208101905060208303925061017b565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff161480156102875750600080846040518082805190602001908083835b60208310151561024e5780518252602082019150602081019050602083039250610229565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060010154145b1561037b5760408051908101604052803373ffffffffffffffffffffffffffffffffffffffff168152602001428152506000846040518082805190602001908083835b6020831015156102ef57805182526020820191506020810190506020830392506102ca565b6001836020036101000a038019825116818451168082178552505050505050905001915050908152602001604051809103902060008201518160000160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555060208201518160010155905050610384565b60009150610389565b600191505b50919050565b6000606082905060015481511415156103a757600080fd5b600080846040518082805190602001908083835b6020831015156103e057805182526020820191506020810190506020830392506103bb565b6001836020036101000a0380198251168184511680821785525050505050509050019150509081526020016040518091039020600101541115156104275760009150610499565b6000836040518082805190602001908083835b60208310151561045f578051825260208201915060208101905060208303925061043a565b6001836020036101000a03801982511681845116808217855250505050505090500191505090815260200160405180910390206001015491505b509190505600a165627a7a723058205127eb02d6e97a7847cb2492d5ae4a74a0099ed108085c854d9425f91b3fe6b20029",
+  "sourceMap": "66:1781:1:-;;;262:2;231:33;;66:1781;8:9:-1;5:2;;;30:1;27;20:12;5:2;66:1781:1;;;;;;;",
+  "deployedSourceMap": "66:1781:1:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;768:416;;8:9:-1;5:2;;;30:1;27;20:12;5:2;768:416:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1504:341;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1504:341:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;768:416;825:4;841:20;870:9;841:39;;916:15;;898:7;:14;:33;890:42;;;;;;;;982:1;946:15;962:9;946:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;946:26:1;;;;;;;;;;;;;;;;;;;;;:32;;;;;;;;;;;;:37;;;:82;;;;;1027:1;987:15;1003:9;987:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;987:26:1;;;;;;;;;;;;;;;;;;;;;:36;;;:41;946:82;943:213;;;1072:30;;;;;;;;;1086:10;1072:30;;;;;;1098:3;1072:30;;;1043:15;1059:9;1043:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;1043:26:1;;;;;;;;;;;;;;;;;;;;;:59;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;943:213;;;1140:5;1133:12;;;;943:213;1173:4;1166:11;;768:416;;;;;:::o;1504:341::-;1569:4;1585:20;1614:9;1585:39;;1660:15;;1642:7;:14;:33;1634:42;;;;;;;;1730:1;1690:15;1706:9;1690:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;1690:26:1;;;;;;;;;;;;;;;;;;;;;:36;;;:41;;1687:152;;;1753:1;1746:8;;;;1687:152;1792:15;1808:9;1792:26;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;1792:26:1;;;;;;;;;;;;;;;;;;;;;:36;;;1785:43;;1504:341;;;;;:::o",
   "source": "pragma solidity ^0.4.17;\n\n/** @title ProofOfExistence spin-off */\ncontract ProofOfExistence {\n    mapping(string => OwnershipTime) photoToOwnerMap; // Stores hash to struct that contains the photo's owner address / upload time\n    uint private photoHashLength = 64; // SHA256 hash length\n\n    // Stores the owner and blockTime\n    struct OwnershipTime {\n        address owner; // Used to prevent another address from using the same picture\n        uint blockTime; // Used to show the date an image was uploaded\n    }\n\n    /** @dev Adds a photo's SHA256 hash to a map\n      * @param photoHash  SHA256 hash of the photo that will be the key to OwnershipTime which is set in the method\n      * @return bool based on success or failure of photoHash insertion\n      */\n    function addPhotoToMap(string photoHash) public returns (bool) {\n        bytes memory byteStr = bytes(photoHash);\n        require(byteStr.length == photoHashLength);\n\n        if(photoToOwnerMap[photoHash].owner == 0 && photoToOwnerMap[photoHash].blockTime == 0){\n            photoToOwnerMap[photoHash] = OwnershipTime(msg.sender, now);\n        } else {\n            return false;\n        }\n\n        return true;\n    }\n\n    /** @dev Uses the photo's SHA256 hash to retrieve the blocktime that was set for it in addPhotoToMap(photoHash);\n      * @param photoHash SHA256 hash of the photo that was used to verify identity\n      * @return The photo's blocktime or 0 on failure. (using 0 instead of -1 cause blockTime is a uint)\n      */\n    function getPhotoTimestamp(string photoHash) public view returns(uint) {\n        bytes memory byteStr = bytes(photoHash);\n        require(byteStr.length == photoHashLength);\n\n        if(photoToOwnerMap[photoHash].blockTime <= 0){\n            return 0;\n        } else {\n            return photoToOwnerMap[photoHash].blockTime;\n        }\n    }\n}",
-  "sourcePath": "C:\\Users\\jimmy.hong\\git\\exist\\Proof-Of-Existence\\contracts\\ProofOfExistence.sol",
+  "sourcePath": "C:\\Users\\Jimmy\\git\\Truffle\\ProofOfExistence\\contracts\\ProofOfExistence.sol",
   "ast": {
-    "absolutePath": "/C/Users/jimmy.hong/git/exist/Proof-Of-Existence/contracts/ProofOfExistence.sol",
+    "absolutePath": "/C/Users/Jimmy/git/Truffle/ProofOfExistence/contracts/ProofOfExistence.sol",
     "exportedSymbols": {
       "ProofOfExistence": [
-        262
+        159
       ]
     },
-    "id": 263,
+    "id": 160,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 161,
+        "id": 58,
         "literals": [
           "solidity",
           "^",
@@ -65,7 +65,7 @@
           ".17"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:24:2"
+        "src": "0:24:1"
       },
       {
         "baseContracts": [],
@@ -73,53 +73,53 @@
         "contractKind": "contract",
         "documentation": "@title ProofOfExistence spin-off ",
         "fullyImplemented": true,
-        "id": 262,
+        "id": 159,
         "linearizedBaseContracts": [
-          262
+          159
         ],
         "name": "ProofOfExistence",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "constant": false,
-            "id": 165,
+            "id": 62,
             "name": "photoToOwnerMap",
             "nodeType": "VariableDeclaration",
-            "scope": 262,
-            "src": "98:48:2",
+            "scope": 159,
+            "src": "98:48:1",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
               "typeString": "mapping(string => struct ProofOfExistence.OwnershipTime)"
             },
             "typeName": {
-              "id": 164,
+              "id": 61,
               "keyType": {
-                "id": 162,
+                "id": 59,
                 "name": "string",
                 "nodeType": "ElementaryTypeName",
-                "src": "106:6:2",
+                "src": "106:6:1",
                 "typeDescriptions": {
                   "typeIdentifier": "t_string_storage_ptr",
                   "typeString": "string"
                 }
               },
               "nodeType": "Mapping",
-              "src": "98:32:2",
+              "src": "98:32:1",
               "typeDescriptions": {
-                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                 "typeString": "mapping(string => struct ProofOfExistence.OwnershipTime)"
               },
               "valueType": {
                 "contractScope": null,
-                "id": 163,
+                "id": 60,
                 "name": "OwnershipTime",
                 "nodeType": "UserDefinedTypeName",
-                "referencedDeclaration": 173,
-                "src": "116:13:2",
+                "referencedDeclaration": 70,
+                "src": "116:13:1",
                 "typeDescriptions": {
-                  "typeIdentifier": "t_struct$_OwnershipTime_$173_storage_ptr",
+                  "typeIdentifier": "t_struct$_OwnershipTime_$70_storage_ptr",
                   "typeString": "struct ProofOfExistence.OwnershipTime"
                 }
               }
@@ -129,11 +129,11 @@
           },
           {
             "constant": false,
-            "id": 168,
+            "id": 65,
             "name": "photoHashLength",
             "nodeType": "VariableDeclaration",
-            "scope": 262,
-            "src": "231:33:2",
+            "scope": 159,
+            "src": "231:33:1",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -141,10 +141,10 @@
               "typeString": "uint256"
             },
             "typeName": {
-              "id": 166,
+              "id": 63,
               "name": "uint",
               "nodeType": "ElementaryTypeName",
-              "src": "231:4:2",
+              "src": "231:4:1",
               "typeDescriptions": {
                 "typeIdentifier": "t_uint256",
                 "typeString": "uint256"
@@ -153,14 +153,14 @@
             "value": {
               "argumentTypes": null,
               "hexValue": "3634",
-              "id": 167,
+              "id": 64,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
               "kind": "number",
               "lValueRequested": false,
               "nodeType": "Literal",
-              "src": "262:2:2",
+              "src": "262:2:1",
               "subdenomination": null,
               "typeDescriptions": {
                 "typeIdentifier": "t_rational_64_by_1",
@@ -172,15 +172,15 @@
           },
           {
             "canonicalName": "ProofOfExistence.OwnershipTime",
-            "id": 173,
+            "id": 70,
             "members": [
               {
                 "constant": false,
-                "id": 170,
+                "id": 67,
                 "name": "owner",
                 "nodeType": "VariableDeclaration",
-                "scope": 173,
-                "src": "362:13:2",
+                "scope": 70,
+                "src": "362:13:1",
                 "stateVariable": false,
                 "storageLocation": "default",
                 "typeDescriptions": {
@@ -188,10 +188,10 @@
                   "typeString": "address"
                 },
                 "typeName": {
-                  "id": 169,
+                  "id": 66,
                   "name": "address",
                   "nodeType": "ElementaryTypeName",
-                  "src": "362:7:2",
+                  "src": "362:7:1",
                   "typeDescriptions": {
                     "typeIdentifier": "t_address",
                     "typeString": "address"
@@ -202,11 +202,11 @@
               },
               {
                 "constant": false,
-                "id": 172,
+                "id": 69,
                 "name": "blockTime",
                 "nodeType": "VariableDeclaration",
-                "scope": 173,
-                "src": "448:14:2",
+                "scope": 70,
+                "src": "448:14:1",
                 "stateVariable": false,
                 "storageLocation": "default",
                 "typeDescriptions": {
@@ -214,10 +214,10 @@
                   "typeString": "uint256"
                 },
                 "typeName": {
-                  "id": 171,
+                  "id": 68,
                   "name": "uint",
                   "nodeType": "ElementaryTypeName",
-                  "src": "448:4:2",
+                  "src": "448:4:1",
                   "typeDescriptions": {
                     "typeIdentifier": "t_uint256",
                     "typeString": "uint256"
@@ -229,28 +229,28 @@
             ],
             "name": "OwnershipTime",
             "nodeType": "StructDefinition",
-            "scope": 262,
-            "src": "331:185:2",
+            "scope": 159,
+            "src": "331:185:1",
             "visibility": "public"
           },
           {
             "body": {
-              "id": 223,
+              "id": 120,
               "nodeType": "Block",
-              "src": "831:353:2",
+              "src": "831:353:1",
               "statements": [
                 {
                   "assignments": [
-                    181
+                    78
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 181,
+                      "id": 78,
                       "name": "byteStr",
                       "nodeType": "VariableDeclaration",
-                      "scope": 224,
-                      "src": "841:20:2",
+                      "scope": 121,
+                      "src": "841:20:1",
                       "stateVariable": false,
                       "storageLocation": "memory",
                       "typeDescriptions": {
@@ -258,10 +258,10 @@
                         "typeString": "bytes"
                       },
                       "typeName": {
-                        "id": 180,
+                        "id": 77,
                         "name": "bytes",
                         "nodeType": "ElementaryTypeName",
-                        "src": "841:5:2",
+                        "src": "841:5:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_storage_ptr",
                           "typeString": "bytes"
@@ -271,18 +271,18 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 185,
+                  "id": 82,
                   "initialValue": {
                     "argumentTypes": null,
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 183,
+                        "id": 80,
                         "name": "photoHash",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 175,
-                        "src": "870:9:2",
+                        "referencedDeclaration": 72,
+                        "src": "870:9:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_string_memory_ptr",
                           "typeString": "string memory"
@@ -296,20 +296,20 @@
                           "typeString": "string memory"
                         }
                       ],
-                      "id": 182,
+                      "id": 79,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "lValueRequested": false,
                       "nodeType": "ElementaryTypeNameExpression",
-                      "src": "864:5:2",
+                      "src": "864:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_type$_t_bytes_storage_ptr_$",
                         "typeString": "type(bytes storage pointer)"
                       },
                       "typeName": "bytes"
                     },
-                    "id": 184,
+                    "id": 81,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -317,14 +317,14 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "864:16:2",
+                    "src": "864:16:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_memory",
                       "typeString": "bytes memory"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "841:39:2"
+                  "src": "841:39:1"
                 },
                 {
                   "expression": {
@@ -336,7 +336,7 @@
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
                         },
-                        "id": 190,
+                        "id": 87,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -345,18 +345,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 187,
+                            "id": 84,
                             "name": "byteStr",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 181,
-                            "src": "898:7:2",
+                            "referencedDeclaration": 78,
+                            "src": "898:7:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes_memory_ptr",
                               "typeString": "bytes memory"
                             }
                           },
-                          "id": 188,
+                          "id": 85,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -364,7 +364,7 @@
                           "memberName": "length",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "898:14:2",
+                          "src": "898:14:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
@@ -374,18 +374,18 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 189,
+                          "id": 86,
                           "name": "photoHashLength",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 168,
-                          "src": "916:15:2",
+                          "referencedDeclaration": 65,
+                          "src": "916:15:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           }
                         },
-                        "src": "898:33:2",
+                        "src": "898:33:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -399,21 +399,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 186,
+                      "id": 83,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        280,
-                        281
+                        177,
+                        178
                       ],
-                      "referencedDeclaration": 280,
-                      "src": "890:7:2",
+                      "referencedDeclaration": 177,
+                      "src": "890:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 191,
+                    "id": 88,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -421,15 +421,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "890:42:2",
+                    "src": "890:42:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 192,
+                  "id": 89,
                   "nodeType": "ExpressionStatement",
-                  "src": "890:42:2"
+                  "src": "890:42:1"
                 },
                 {
                   "condition": {
@@ -438,7 +438,7 @@
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     },
-                    "id": 205,
+                    "id": 102,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -449,7 +449,7 @@
                         "typeIdentifier": "t_address",
                         "typeString": "address"
                       },
-                      "id": 198,
+                      "id": 95,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -460,26 +460,26 @@
                           "argumentTypes": null,
                           "baseExpression": {
                             "argumentTypes": null,
-                            "id": 193,
+                            "id": 90,
                             "name": "photoToOwnerMap",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 165,
-                            "src": "946:15:2",
+                            "referencedDeclaration": 62,
+                            "src": "946:15:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                               "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                             }
                           },
-                          "id": 195,
+                          "id": 92,
                           "indexExpression": {
                             "argumentTypes": null,
-                            "id": 194,
+                            "id": 91,
                             "name": "photoHash",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 175,
-                            "src": "962:9:2",
+                            "referencedDeclaration": 72,
+                            "src": "962:9:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_string_memory_ptr",
                               "typeString": "string memory"
@@ -490,21 +490,21 @@
                           "isPure": false,
                           "lValueRequested": false,
                           "nodeType": "IndexAccess",
-                          "src": "946:26:2",
+                          "src": "946:26:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                            "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                             "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                           }
                         },
-                        "id": 196,
+                        "id": 93,
                         "isConstant": false,
                         "isLValue": true,
                         "isPure": false,
                         "lValueRequested": false,
                         "memberName": "owner",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 170,
-                        "src": "946:32:2",
+                        "referencedDeclaration": 67,
+                        "src": "946:32:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -515,14 +515,14 @@
                       "rightExpression": {
                         "argumentTypes": null,
                         "hexValue": "30",
-                        "id": 197,
+                        "id": 94,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
                         "kind": "number",
                         "lValueRequested": false,
                         "nodeType": "Literal",
-                        "src": "982:1:2",
+                        "src": "982:1:1",
                         "subdenomination": null,
                         "typeDescriptions": {
                           "typeIdentifier": "t_rational_0_by_1",
@@ -530,7 +530,7 @@
                         },
                         "value": "0"
                       },
-                      "src": "946:37:2",
+                      "src": "946:37:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
                         "typeString": "bool"
@@ -544,7 +544,7 @@
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
                       },
-                      "id": 204,
+                      "id": 101,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -555,26 +555,26 @@
                           "argumentTypes": null,
                           "baseExpression": {
                             "argumentTypes": null,
-                            "id": 199,
+                            "id": 96,
                             "name": "photoToOwnerMap",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 165,
-                            "src": "987:15:2",
+                            "referencedDeclaration": 62,
+                            "src": "987:15:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                               "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                             }
                           },
-                          "id": 201,
+                          "id": 98,
                           "indexExpression": {
                             "argumentTypes": null,
-                            "id": 200,
+                            "id": 97,
                             "name": "photoHash",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 175,
-                            "src": "1003:9:2",
+                            "referencedDeclaration": 72,
+                            "src": "1003:9:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_string_memory_ptr",
                               "typeString": "string memory"
@@ -585,21 +585,21 @@
                           "isPure": false,
                           "lValueRequested": false,
                           "nodeType": "IndexAccess",
-                          "src": "987:26:2",
+                          "src": "987:26:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                            "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                             "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                           }
                         },
-                        "id": 202,
+                        "id": 99,
                         "isConstant": false,
                         "isLValue": true,
                         "isPure": false,
                         "lValueRequested": false,
                         "memberName": "blockTime",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 172,
-                        "src": "987:36:2",
+                        "referencedDeclaration": 69,
+                        "src": "987:36:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -610,14 +610,14 @@
                       "rightExpression": {
                         "argumentTypes": null,
                         "hexValue": "30",
-                        "id": 203,
+                        "id": 100,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
                         "kind": "number",
                         "lValueRequested": false,
                         "nodeType": "Literal",
-                        "src": "1027:1:2",
+                        "src": "1027:1:1",
                         "subdenomination": null,
                         "typeDescriptions": {
                           "typeIdentifier": "t_rational_0_by_1",
@@ -625,35 +625,35 @@
                         },
                         "value": "0"
                       },
-                      "src": "987:41:2",
+                      "src": "987:41:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
                         "typeString": "bool"
                       }
                     },
-                    "src": "946:82:2",
+                    "src": "946:82:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
                   "falseBody": {
-                    "id": 219,
+                    "id": 116,
                     "nodeType": "Block",
-                    "src": "1119:37:2",
+                    "src": "1119:37:1",
                     "statements": [
                       {
                         "expression": {
                           "argumentTypes": null,
                           "hexValue": "66616c7365",
-                          "id": 217,
+                          "id": 114,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
                           "kind": "bool",
                           "lValueRequested": false,
                           "nodeType": "Literal",
-                          "src": "1140:5:2",
+                          "src": "1140:5:1",
                           "subdenomination": null,
                           "typeDescriptions": {
                             "typeIdentifier": "t_bool",
@@ -661,25 +661,25 @@
                           },
                           "value": "false"
                         },
-                        "functionReturnParameters": 179,
-                        "id": 218,
+                        "functionReturnParameters": 76,
+                        "id": 115,
                         "nodeType": "Return",
-                        "src": "1133:12:2"
+                        "src": "1133:12:1"
                       }
                     ]
                   },
-                  "id": 220,
+                  "id": 117,
                   "nodeType": "IfStatement",
-                  "src": "943:213:2",
+                  "src": "943:213:1",
                   "trueBody": {
-                    "id": 216,
+                    "id": 113,
                     "nodeType": "Block",
-                    "src": "1029:84:2",
+                    "src": "1029:84:1",
                     "statements": [
                       {
                         "expression": {
                           "argumentTypes": null,
-                          "id": 214,
+                          "id": 111,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -688,26 +688,26 @@
                             "argumentTypes": null,
                             "baseExpression": {
                               "argumentTypes": null,
-                              "id": 206,
+                              "id": 103,
                               "name": "photoToOwnerMap",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 165,
-                              "src": "1043:15:2",
+                              "referencedDeclaration": 62,
+                              "src": "1043:15:1",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                                 "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                               }
                             },
-                            "id": 208,
+                            "id": 105,
                             "indexExpression": {
                               "argumentTypes": null,
-                              "id": 207,
+                              "id": 104,
                               "name": "photoHash",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 175,
-                              "src": "1059:9:2",
+                              "referencedDeclaration": 72,
+                              "src": "1059:9:1",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_string_memory_ptr",
                                 "typeString": "string memory"
@@ -718,9 +718,9 @@
                             "isPure": false,
                             "lValueRequested": true,
                             "nodeType": "IndexAccess",
-                            "src": "1043:26:2",
+                            "src": "1043:26:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                              "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                               "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                             }
                           },
@@ -733,18 +733,18 @@
                                 "argumentTypes": null,
                                 "expression": {
                                   "argumentTypes": null,
-                                  "id": 210,
+                                  "id": 107,
                                   "name": "msg",
                                   "nodeType": "Identifier",
                                   "overloadedDeclarations": [],
-                                  "referencedDeclaration": 277,
-                                  "src": "1086:3:2",
+                                  "referencedDeclaration": 174,
+                                  "src": "1086:3:1",
                                   "typeDescriptions": {
                                     "typeIdentifier": "t_magic_message",
                                     "typeString": "msg"
                                   }
                                 },
-                                "id": 211,
+                                "id": 108,
                                 "isConstant": false,
                                 "isLValue": false,
                                 "isPure": false,
@@ -752,7 +752,7 @@
                                 "memberName": "sender",
                                 "nodeType": "MemberAccess",
                                 "referencedDeclaration": null,
-                                "src": "1086:10:2",
+                                "src": "1086:10:1",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_address",
                                   "typeString": "address"
@@ -760,12 +760,12 @@
                               },
                               {
                                 "argumentTypes": null,
-                                "id": 212,
+                                "id": 109,
                                 "name": "now",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 279,
-                                "src": "1098:3:2",
+                                "referencedDeclaration": 176,
+                                "src": "1098:3:1",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_uint256",
                                   "typeString": "uint256"
@@ -783,18 +783,18 @@
                                   "typeString": "uint256"
                                 }
                               ],
-                              "id": 209,
+                              "id": 106,
                               "name": "OwnershipTime",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 173,
-                              "src": "1072:13:2",
+                              "referencedDeclaration": 70,
+                              "src": "1072:13:1",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_type$_t_struct$_OwnershipTime_$173_storage_ptr_$",
+                                "typeIdentifier": "t_type$_t_struct$_OwnershipTime_$70_storage_ptr_$",
                                 "typeString": "type(struct ProofOfExistence.OwnershipTime storage pointer)"
                               }
                             },
-                            "id": 213,
+                            "id": 110,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": false,
@@ -802,21 +802,21 @@
                             "lValueRequested": false,
                             "names": [],
                             "nodeType": "FunctionCall",
-                            "src": "1072:30:2",
+                            "src": "1072:30:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_OwnershipTime_$173_memory",
+                              "typeIdentifier": "t_struct$_OwnershipTime_$70_memory",
                               "typeString": "struct ProofOfExistence.OwnershipTime memory"
                             }
                           },
-                          "src": "1043:59:2",
+                          "src": "1043:59:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                            "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                             "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                           }
                         },
-                        "id": 215,
+                        "id": 112,
                         "nodeType": "ExpressionStatement",
-                        "src": "1043:59:2"
+                        "src": "1043:59:1"
                       }
                     ]
                   }
@@ -825,14 +825,14 @@
                   "expression": {
                     "argumentTypes": null,
                     "hexValue": "74727565",
-                    "id": 221,
+                    "id": 118,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
                     "kind": "bool",
                     "lValueRequested": false,
                     "nodeType": "Literal",
-                    "src": "1173:4:2",
+                    "src": "1173:4:1",
                     "subdenomination": null,
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
@@ -840,15 +840,15 @@
                     },
                     "value": "true"
                   },
-                  "functionReturnParameters": 179,
-                  "id": 222,
+                  "functionReturnParameters": 76,
+                  "id": 119,
                   "nodeType": "Return",
-                  "src": "1166:11:2"
+                  "src": "1166:11:1"
                 }
               ]
             },
             "documentation": "@dev Adds a photo's SHA256 hash to a map\n@param photoHash  SHA256 hash of the photo that will be the key to OwnershipTime which is set in the method\n@return bool based on success or failure of photoHash insertion",
-            "id": 224,
+            "id": 121,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -856,16 +856,16 @@
             "name": "addPhotoToMap",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 176,
+              "id": 73,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 175,
+                  "id": 72,
                   "name": "photoHash",
                   "nodeType": "VariableDeclaration",
-                  "scope": 224,
-                  "src": "791:16:2",
+                  "scope": 121,
+                  "src": "791:16:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -873,10 +873,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 174,
+                    "id": 71,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "791:6:2",
+                    "src": "791:6:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -886,20 +886,20 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "790:18:2"
+              "src": "790:18:1"
             },
             "payable": false,
             "returnParameters": {
-              "id": 179,
+              "id": 76,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 178,
+                  "id": 75,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 224,
-                  "src": "825:4:2",
+                  "scope": 121,
+                  "src": "825:4:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -907,10 +907,10 @@
                     "typeString": "bool"
                   },
                   "typeName": {
-                    "id": 177,
+                    "id": 74,
                     "name": "bool",
                     "nodeType": "ElementaryTypeName",
-                    "src": "825:4:2",
+                    "src": "825:4:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
@@ -920,32 +920,32 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "824:6:2"
+              "src": "824:6:1"
             },
-            "scope": 262,
-            "src": "768:416:2",
+            "scope": 159,
+            "src": "768:416:1",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 260,
+              "id": 157,
               "nodeType": "Block",
-              "src": "1575:270:2",
+              "src": "1575:270:1",
               "statements": [
                 {
                   "assignments": [
-                    232
+                    129
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 232,
+                      "id": 129,
                       "name": "byteStr",
                       "nodeType": "VariableDeclaration",
-                      "scope": 261,
-                      "src": "1585:20:2",
+                      "scope": 158,
+                      "src": "1585:20:1",
                       "stateVariable": false,
                       "storageLocation": "memory",
                       "typeDescriptions": {
@@ -953,10 +953,10 @@
                         "typeString": "bytes"
                       },
                       "typeName": {
-                        "id": 231,
+                        "id": 128,
                         "name": "bytes",
                         "nodeType": "ElementaryTypeName",
-                        "src": "1585:5:2",
+                        "src": "1585:5:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_storage_ptr",
                           "typeString": "bytes"
@@ -966,18 +966,18 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 236,
+                  "id": 133,
                   "initialValue": {
                     "argumentTypes": null,
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 234,
+                        "id": 131,
                         "name": "photoHash",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 226,
-                        "src": "1614:9:2",
+                        "referencedDeclaration": 123,
+                        "src": "1614:9:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_string_memory_ptr",
                           "typeString": "string memory"
@@ -991,20 +991,20 @@
                           "typeString": "string memory"
                         }
                       ],
-                      "id": 233,
+                      "id": 130,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "lValueRequested": false,
                       "nodeType": "ElementaryTypeNameExpression",
-                      "src": "1608:5:2",
+                      "src": "1608:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_type$_t_bytes_storage_ptr_$",
                         "typeString": "type(bytes storage pointer)"
                       },
                       "typeName": "bytes"
                     },
-                    "id": 235,
+                    "id": 132,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1012,14 +1012,14 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1608:16:2",
+                    "src": "1608:16:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_memory",
                       "typeString": "bytes memory"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "1585:39:2"
+                  "src": "1585:39:1"
                 },
                 {
                   "expression": {
@@ -1031,7 +1031,7 @@
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
                         },
-                        "id": 241,
+                        "id": 138,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1040,18 +1040,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 238,
+                            "id": 135,
                             "name": "byteStr",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 232,
-                            "src": "1642:7:2",
+                            "referencedDeclaration": 129,
+                            "src": "1642:7:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes_memory_ptr",
                               "typeString": "bytes memory"
                             }
                           },
-                          "id": 239,
+                          "id": 136,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -1059,7 +1059,7 @@
                           "memberName": "length",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1642:14:2",
+                          "src": "1642:14:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
@@ -1069,18 +1069,18 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 240,
+                          "id": 137,
                           "name": "photoHashLength",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 168,
-                          "src": "1660:15:2",
+                          "referencedDeclaration": 65,
+                          "src": "1660:15:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           }
                         },
-                        "src": "1642:33:2",
+                        "src": "1642:33:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -1094,21 +1094,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 237,
+                      "id": 134,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        280,
-                        281
+                        177,
+                        178
                       ],
-                      "referencedDeclaration": 280,
-                      "src": "1634:7:2",
+                      "referencedDeclaration": 177,
+                      "src": "1634:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 242,
+                    "id": 139,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1116,15 +1116,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1634:42:2",
+                    "src": "1634:42:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 243,
+                  "id": 140,
                   "nodeType": "ExpressionStatement",
-                  "src": "1634:42:2"
+                  "src": "1634:42:1"
                 },
                 {
                   "condition": {
@@ -1133,7 +1133,7 @@
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     },
-                    "id": 249,
+                    "id": 146,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1144,26 +1144,26 @@
                         "argumentTypes": null,
                         "baseExpression": {
                           "argumentTypes": null,
-                          "id": 244,
+                          "id": 141,
                           "name": "photoToOwnerMap",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 165,
-                          "src": "1690:15:2",
+                          "referencedDeclaration": 62,
+                          "src": "1690:15:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                            "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                             "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                           }
                         },
-                        "id": 246,
+                        "id": 143,
                         "indexExpression": {
                           "argumentTypes": null,
-                          "id": 245,
+                          "id": 142,
                           "name": "photoHash",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 226,
-                          "src": "1706:9:2",
+                          "referencedDeclaration": 123,
+                          "src": "1706:9:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_string_memory_ptr",
                             "typeString": "string memory"
@@ -1174,21 +1174,21 @@
                         "isPure": false,
                         "lValueRequested": false,
                         "nodeType": "IndexAccess",
-                        "src": "1690:26:2",
+                        "src": "1690:26:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                          "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                           "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                         }
                       },
-                      "id": 247,
+                      "id": 144,
                       "isConstant": false,
                       "isLValue": true,
                       "isPure": false,
                       "lValueRequested": false,
                       "memberName": "blockTime",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 172,
-                      "src": "1690:36:2",
+                      "referencedDeclaration": 69,
+                      "src": "1690:36:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -1199,14 +1199,14 @@
                     "rightExpression": {
                       "argumentTypes": null,
                       "hexValue": "30",
-                      "id": 248,
+                      "id": 145,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "kind": "number",
                       "lValueRequested": false,
                       "nodeType": "Literal",
-                      "src": "1730:1:2",
+                      "src": "1730:1:1",
                       "subdenomination": null,
                       "typeDescriptions": {
                         "typeIdentifier": "t_rational_0_by_1",
@@ -1214,16 +1214,16 @@
                       },
                       "value": "0"
                     },
-                    "src": "1690:41:2",
+                    "src": "1690:41:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
                   "falseBody": {
-                    "id": 258,
+                    "id": 155,
                     "nodeType": "Block",
-                    "src": "1771:68:2",
+                    "src": "1771:68:1",
                     "statements": [
                       {
                         "expression": {
@@ -1232,26 +1232,26 @@
                             "argumentTypes": null,
                             "baseExpression": {
                               "argumentTypes": null,
-                              "id": 253,
+                              "id": 150,
                               "name": "photoToOwnerMap",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 165,
-                              "src": "1792:15:2",
+                              "referencedDeclaration": 62,
+                              "src": "1792:15:1",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                                 "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                               }
                             },
-                            "id": 255,
+                            "id": 152,
                             "indexExpression": {
                               "argumentTypes": null,
-                              "id": 254,
+                              "id": 151,
                               "name": "photoHash",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 226,
-                              "src": "1808:9:2",
+                              "referencedDeclaration": 123,
+                              "src": "1808:9:1",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_string_memory_ptr",
                                 "typeString": "string memory"
@@ -1262,53 +1262,53 @@
                             "isPure": false,
                             "lValueRequested": false,
                             "nodeType": "IndexAccess",
-                            "src": "1792:26:2",
+                            "src": "1792:26:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                              "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                               "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                             }
                           },
-                          "id": 256,
+                          "id": 153,
                           "isConstant": false,
                           "isLValue": true,
                           "isPure": false,
                           "lValueRequested": false,
                           "memberName": "blockTime",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 172,
-                          "src": "1792:36:2",
+                          "referencedDeclaration": 69,
+                          "src": "1792:36:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           }
                         },
-                        "functionReturnParameters": 230,
-                        "id": 257,
+                        "functionReturnParameters": 127,
+                        "id": 154,
                         "nodeType": "Return",
-                        "src": "1785:43:2"
+                        "src": "1785:43:1"
                       }
                     ]
                   },
-                  "id": 259,
+                  "id": 156,
                   "nodeType": "IfStatement",
-                  "src": "1687:152:2",
+                  "src": "1687:152:1",
                   "trueBody": {
-                    "id": 252,
+                    "id": 149,
                     "nodeType": "Block",
-                    "src": "1732:33:2",
+                    "src": "1732:33:1",
                     "statements": [
                       {
                         "expression": {
                           "argumentTypes": null,
                           "hexValue": "30",
-                          "id": 250,
+                          "id": 147,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
                           "kind": "number",
                           "lValueRequested": false,
                           "nodeType": "Literal",
-                          "src": "1753:1:2",
+                          "src": "1753:1:1",
                           "subdenomination": null,
                           "typeDescriptions": {
                             "typeIdentifier": "t_rational_0_by_1",
@@ -1316,10 +1316,10 @@
                           },
                           "value": "0"
                         },
-                        "functionReturnParameters": 230,
-                        "id": 251,
+                        "functionReturnParameters": 127,
+                        "id": 148,
                         "nodeType": "Return",
-                        "src": "1746:8:2"
+                        "src": "1746:8:1"
                       }
                     ]
                   }
@@ -1327,7 +1327,7 @@
               ]
             },
             "documentation": "@dev Uses the photo's SHA256 hash to retrieve the blocktime that was set for it in addPhotoToMap(photoHash);\n@param photoHash SHA256 hash of the photo that was used to verify identity\n@return The photo's blocktime or 0 on failure. (using 0 instead of -1 cause blockTime is a uint)",
-            "id": 261,
+            "id": 158,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": true,
@@ -1335,16 +1335,16 @@
             "name": "getPhotoTimestamp",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 227,
+              "id": 124,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 226,
+                  "id": 123,
                   "name": "photoHash",
                   "nodeType": "VariableDeclaration",
-                  "scope": 261,
-                  "src": "1531:16:2",
+                  "scope": 158,
+                  "src": "1531:16:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -1352,10 +1352,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 225,
+                    "id": 122,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "1531:6:2",
+                    "src": "1531:6:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -1365,20 +1365,20 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "1530:18:2"
+              "src": "1530:18:1"
             },
             "payable": false,
             "returnParameters": {
-              "id": 230,
+              "id": 127,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 229,
+                  "id": 126,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 261,
-                  "src": "1569:4:2",
+                  "scope": 158,
+                  "src": "1569:4:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -1386,10 +1386,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 228,
+                    "id": 125,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "1569:4:2",
+                    "src": "1569:4:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -1399,33 +1399,33 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "1568:6:2"
+              "src": "1568:6:1"
             },
-            "scope": 262,
-            "src": "1504:341:2",
+            "scope": 159,
+            "src": "1504:341:1",
             "stateMutability": "view",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 263,
-        "src": "66:1781:2"
+        "scope": 160,
+        "src": "66:1781:1"
       }
     ],
-    "src": "0:1847:2"
+    "src": "0:1847:1"
   },
   "legacyAST": {
-    "absolutePath": "/C/Users/jimmy.hong/git/exist/Proof-Of-Existence/contracts/ProofOfExistence.sol",
+    "absolutePath": "/C/Users/Jimmy/git/Truffle/ProofOfExistence/contracts/ProofOfExistence.sol",
     "exportedSymbols": {
       "ProofOfExistence": [
-        262
+        159
       ]
     },
-    "id": 263,
+    "id": 160,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 161,
+        "id": 58,
         "literals": [
           "solidity",
           "^",
@@ -1433,7 +1433,7 @@
           ".17"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:24:2"
+        "src": "0:24:1"
       },
       {
         "baseContracts": [],
@@ -1441,53 +1441,53 @@
         "contractKind": "contract",
         "documentation": "@title ProofOfExistence spin-off ",
         "fullyImplemented": true,
-        "id": 262,
+        "id": 159,
         "linearizedBaseContracts": [
-          262
+          159
         ],
         "name": "ProofOfExistence",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "constant": false,
-            "id": 165,
+            "id": 62,
             "name": "photoToOwnerMap",
             "nodeType": "VariableDeclaration",
-            "scope": 262,
-            "src": "98:48:2",
+            "scope": 159,
+            "src": "98:48:1",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
               "typeString": "mapping(string => struct ProofOfExistence.OwnershipTime)"
             },
             "typeName": {
-              "id": 164,
+              "id": 61,
               "keyType": {
-                "id": 162,
+                "id": 59,
                 "name": "string",
                 "nodeType": "ElementaryTypeName",
-                "src": "106:6:2",
+                "src": "106:6:1",
                 "typeDescriptions": {
                   "typeIdentifier": "t_string_storage_ptr",
                   "typeString": "string"
                 }
               },
               "nodeType": "Mapping",
-              "src": "98:32:2",
+              "src": "98:32:1",
               "typeDescriptions": {
-                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                 "typeString": "mapping(string => struct ProofOfExistence.OwnershipTime)"
               },
               "valueType": {
                 "contractScope": null,
-                "id": 163,
+                "id": 60,
                 "name": "OwnershipTime",
                 "nodeType": "UserDefinedTypeName",
-                "referencedDeclaration": 173,
-                "src": "116:13:2",
+                "referencedDeclaration": 70,
+                "src": "116:13:1",
                 "typeDescriptions": {
-                  "typeIdentifier": "t_struct$_OwnershipTime_$173_storage_ptr",
+                  "typeIdentifier": "t_struct$_OwnershipTime_$70_storage_ptr",
                   "typeString": "struct ProofOfExistence.OwnershipTime"
                 }
               }
@@ -1497,11 +1497,11 @@
           },
           {
             "constant": false,
-            "id": 168,
+            "id": 65,
             "name": "photoHashLength",
             "nodeType": "VariableDeclaration",
-            "scope": 262,
-            "src": "231:33:2",
+            "scope": 159,
+            "src": "231:33:1",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -1509,10 +1509,10 @@
               "typeString": "uint256"
             },
             "typeName": {
-              "id": 166,
+              "id": 63,
               "name": "uint",
               "nodeType": "ElementaryTypeName",
-              "src": "231:4:2",
+              "src": "231:4:1",
               "typeDescriptions": {
                 "typeIdentifier": "t_uint256",
                 "typeString": "uint256"
@@ -1521,14 +1521,14 @@
             "value": {
               "argumentTypes": null,
               "hexValue": "3634",
-              "id": 167,
+              "id": 64,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
               "kind": "number",
               "lValueRequested": false,
               "nodeType": "Literal",
-              "src": "262:2:2",
+              "src": "262:2:1",
               "subdenomination": null,
               "typeDescriptions": {
                 "typeIdentifier": "t_rational_64_by_1",
@@ -1540,15 +1540,15 @@
           },
           {
             "canonicalName": "ProofOfExistence.OwnershipTime",
-            "id": 173,
+            "id": 70,
             "members": [
               {
                 "constant": false,
-                "id": 170,
+                "id": 67,
                 "name": "owner",
                 "nodeType": "VariableDeclaration",
-                "scope": 173,
-                "src": "362:13:2",
+                "scope": 70,
+                "src": "362:13:1",
                 "stateVariable": false,
                 "storageLocation": "default",
                 "typeDescriptions": {
@@ -1556,10 +1556,10 @@
                   "typeString": "address"
                 },
                 "typeName": {
-                  "id": 169,
+                  "id": 66,
                   "name": "address",
                   "nodeType": "ElementaryTypeName",
-                  "src": "362:7:2",
+                  "src": "362:7:1",
                   "typeDescriptions": {
                     "typeIdentifier": "t_address",
                     "typeString": "address"
@@ -1570,11 +1570,11 @@
               },
               {
                 "constant": false,
-                "id": 172,
+                "id": 69,
                 "name": "blockTime",
                 "nodeType": "VariableDeclaration",
-                "scope": 173,
-                "src": "448:14:2",
+                "scope": 70,
+                "src": "448:14:1",
                 "stateVariable": false,
                 "storageLocation": "default",
                 "typeDescriptions": {
@@ -1582,10 +1582,10 @@
                   "typeString": "uint256"
                 },
                 "typeName": {
-                  "id": 171,
+                  "id": 68,
                   "name": "uint",
                   "nodeType": "ElementaryTypeName",
-                  "src": "448:4:2",
+                  "src": "448:4:1",
                   "typeDescriptions": {
                     "typeIdentifier": "t_uint256",
                     "typeString": "uint256"
@@ -1597,28 +1597,28 @@
             ],
             "name": "OwnershipTime",
             "nodeType": "StructDefinition",
-            "scope": 262,
-            "src": "331:185:2",
+            "scope": 159,
+            "src": "331:185:1",
             "visibility": "public"
           },
           {
             "body": {
-              "id": 223,
+              "id": 120,
               "nodeType": "Block",
-              "src": "831:353:2",
+              "src": "831:353:1",
               "statements": [
                 {
                   "assignments": [
-                    181
+                    78
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 181,
+                      "id": 78,
                       "name": "byteStr",
                       "nodeType": "VariableDeclaration",
-                      "scope": 224,
-                      "src": "841:20:2",
+                      "scope": 121,
+                      "src": "841:20:1",
                       "stateVariable": false,
                       "storageLocation": "memory",
                       "typeDescriptions": {
@@ -1626,10 +1626,10 @@
                         "typeString": "bytes"
                       },
                       "typeName": {
-                        "id": 180,
+                        "id": 77,
                         "name": "bytes",
                         "nodeType": "ElementaryTypeName",
-                        "src": "841:5:2",
+                        "src": "841:5:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_storage_ptr",
                           "typeString": "bytes"
@@ -1639,18 +1639,18 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 185,
+                  "id": 82,
                   "initialValue": {
                     "argumentTypes": null,
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 183,
+                        "id": 80,
                         "name": "photoHash",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 175,
-                        "src": "870:9:2",
+                        "referencedDeclaration": 72,
+                        "src": "870:9:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_string_memory_ptr",
                           "typeString": "string memory"
@@ -1664,20 +1664,20 @@
                           "typeString": "string memory"
                         }
                       ],
-                      "id": 182,
+                      "id": 79,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "lValueRequested": false,
                       "nodeType": "ElementaryTypeNameExpression",
-                      "src": "864:5:2",
+                      "src": "864:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_type$_t_bytes_storage_ptr_$",
                         "typeString": "type(bytes storage pointer)"
                       },
                       "typeName": "bytes"
                     },
-                    "id": 184,
+                    "id": 81,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1685,14 +1685,14 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "864:16:2",
+                    "src": "864:16:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_memory",
                       "typeString": "bytes memory"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "841:39:2"
+                  "src": "841:39:1"
                 },
                 {
                   "expression": {
@@ -1704,7 +1704,7 @@
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
                         },
-                        "id": 190,
+                        "id": 87,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1713,18 +1713,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 187,
+                            "id": 84,
                             "name": "byteStr",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 181,
-                            "src": "898:7:2",
+                            "referencedDeclaration": 78,
+                            "src": "898:7:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes_memory_ptr",
                               "typeString": "bytes memory"
                             }
                           },
-                          "id": 188,
+                          "id": 85,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -1732,7 +1732,7 @@
                           "memberName": "length",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "898:14:2",
+                          "src": "898:14:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
@@ -1742,18 +1742,18 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 189,
+                          "id": 86,
                           "name": "photoHashLength",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 168,
-                          "src": "916:15:2",
+                          "referencedDeclaration": 65,
+                          "src": "916:15:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           }
                         },
-                        "src": "898:33:2",
+                        "src": "898:33:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -1767,21 +1767,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 186,
+                      "id": 83,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        280,
-                        281
+                        177,
+                        178
                       ],
-                      "referencedDeclaration": 280,
-                      "src": "890:7:2",
+                      "referencedDeclaration": 177,
+                      "src": "890:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 191,
+                    "id": 88,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1789,15 +1789,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "890:42:2",
+                    "src": "890:42:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 192,
+                  "id": 89,
                   "nodeType": "ExpressionStatement",
-                  "src": "890:42:2"
+                  "src": "890:42:1"
                 },
                 {
                   "condition": {
@@ -1806,7 +1806,7 @@
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     },
-                    "id": 205,
+                    "id": 102,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1817,7 +1817,7 @@
                         "typeIdentifier": "t_address",
                         "typeString": "address"
                       },
-                      "id": 198,
+                      "id": 95,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1828,26 +1828,26 @@
                           "argumentTypes": null,
                           "baseExpression": {
                             "argumentTypes": null,
-                            "id": 193,
+                            "id": 90,
                             "name": "photoToOwnerMap",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 165,
-                            "src": "946:15:2",
+                            "referencedDeclaration": 62,
+                            "src": "946:15:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                               "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                             }
                           },
-                          "id": 195,
+                          "id": 92,
                           "indexExpression": {
                             "argumentTypes": null,
-                            "id": 194,
+                            "id": 91,
                             "name": "photoHash",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 175,
-                            "src": "962:9:2",
+                            "referencedDeclaration": 72,
+                            "src": "962:9:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_string_memory_ptr",
                               "typeString": "string memory"
@@ -1858,21 +1858,21 @@
                           "isPure": false,
                           "lValueRequested": false,
                           "nodeType": "IndexAccess",
-                          "src": "946:26:2",
+                          "src": "946:26:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                            "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                             "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                           }
                         },
-                        "id": 196,
+                        "id": 93,
                         "isConstant": false,
                         "isLValue": true,
                         "isPure": false,
                         "lValueRequested": false,
                         "memberName": "owner",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 170,
-                        "src": "946:32:2",
+                        "referencedDeclaration": 67,
+                        "src": "946:32:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -1883,14 +1883,14 @@
                       "rightExpression": {
                         "argumentTypes": null,
                         "hexValue": "30",
-                        "id": 197,
+                        "id": 94,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
                         "kind": "number",
                         "lValueRequested": false,
                         "nodeType": "Literal",
-                        "src": "982:1:2",
+                        "src": "982:1:1",
                         "subdenomination": null,
                         "typeDescriptions": {
                           "typeIdentifier": "t_rational_0_by_1",
@@ -1898,7 +1898,7 @@
                         },
                         "value": "0"
                       },
-                      "src": "946:37:2",
+                      "src": "946:37:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
                         "typeString": "bool"
@@ -1912,7 +1912,7 @@
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
                       },
-                      "id": 204,
+                      "id": 101,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1923,26 +1923,26 @@
                           "argumentTypes": null,
                           "baseExpression": {
                             "argumentTypes": null,
-                            "id": 199,
+                            "id": 96,
                             "name": "photoToOwnerMap",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 165,
-                            "src": "987:15:2",
+                            "referencedDeclaration": 62,
+                            "src": "987:15:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                              "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                               "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                             }
                           },
-                          "id": 201,
+                          "id": 98,
                           "indexExpression": {
                             "argumentTypes": null,
-                            "id": 200,
+                            "id": 97,
                             "name": "photoHash",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 175,
-                            "src": "1003:9:2",
+                            "referencedDeclaration": 72,
+                            "src": "1003:9:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_string_memory_ptr",
                               "typeString": "string memory"
@@ -1953,21 +1953,21 @@
                           "isPure": false,
                           "lValueRequested": false,
                           "nodeType": "IndexAccess",
-                          "src": "987:26:2",
+                          "src": "987:26:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                            "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                             "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                           }
                         },
-                        "id": 202,
+                        "id": 99,
                         "isConstant": false,
                         "isLValue": true,
                         "isPure": false,
                         "lValueRequested": false,
                         "memberName": "blockTime",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 172,
-                        "src": "987:36:2",
+                        "referencedDeclaration": 69,
+                        "src": "987:36:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -1978,14 +1978,14 @@
                       "rightExpression": {
                         "argumentTypes": null,
                         "hexValue": "30",
-                        "id": 203,
+                        "id": 100,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
                         "kind": "number",
                         "lValueRequested": false,
                         "nodeType": "Literal",
-                        "src": "1027:1:2",
+                        "src": "1027:1:1",
                         "subdenomination": null,
                         "typeDescriptions": {
                           "typeIdentifier": "t_rational_0_by_1",
@@ -1993,35 +1993,35 @@
                         },
                         "value": "0"
                       },
-                      "src": "987:41:2",
+                      "src": "987:41:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bool",
                         "typeString": "bool"
                       }
                     },
-                    "src": "946:82:2",
+                    "src": "946:82:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
                   "falseBody": {
-                    "id": 219,
+                    "id": 116,
                     "nodeType": "Block",
-                    "src": "1119:37:2",
+                    "src": "1119:37:1",
                     "statements": [
                       {
                         "expression": {
                           "argumentTypes": null,
                           "hexValue": "66616c7365",
-                          "id": 217,
+                          "id": 114,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
                           "kind": "bool",
                           "lValueRequested": false,
                           "nodeType": "Literal",
-                          "src": "1140:5:2",
+                          "src": "1140:5:1",
                           "subdenomination": null,
                           "typeDescriptions": {
                             "typeIdentifier": "t_bool",
@@ -2029,25 +2029,25 @@
                           },
                           "value": "false"
                         },
-                        "functionReturnParameters": 179,
-                        "id": 218,
+                        "functionReturnParameters": 76,
+                        "id": 115,
                         "nodeType": "Return",
-                        "src": "1133:12:2"
+                        "src": "1133:12:1"
                       }
                     ]
                   },
-                  "id": 220,
+                  "id": 117,
                   "nodeType": "IfStatement",
-                  "src": "943:213:2",
+                  "src": "943:213:1",
                   "trueBody": {
-                    "id": 216,
+                    "id": 113,
                     "nodeType": "Block",
-                    "src": "1029:84:2",
+                    "src": "1029:84:1",
                     "statements": [
                       {
                         "expression": {
                           "argumentTypes": null,
-                          "id": 214,
+                          "id": 111,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -2056,26 +2056,26 @@
                             "argumentTypes": null,
                             "baseExpression": {
                               "argumentTypes": null,
-                              "id": 206,
+                              "id": 103,
                               "name": "photoToOwnerMap",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 165,
-                              "src": "1043:15:2",
+                              "referencedDeclaration": 62,
+                              "src": "1043:15:1",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                                 "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                               }
                             },
-                            "id": 208,
+                            "id": 105,
                             "indexExpression": {
                               "argumentTypes": null,
-                              "id": 207,
+                              "id": 104,
                               "name": "photoHash",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 175,
-                              "src": "1059:9:2",
+                              "referencedDeclaration": 72,
+                              "src": "1059:9:1",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_string_memory_ptr",
                                 "typeString": "string memory"
@@ -2086,9 +2086,9 @@
                             "isPure": false,
                             "lValueRequested": true,
                             "nodeType": "IndexAccess",
-                            "src": "1043:26:2",
+                            "src": "1043:26:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                              "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                               "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                             }
                           },
@@ -2101,18 +2101,18 @@
                                 "argumentTypes": null,
                                 "expression": {
                                   "argumentTypes": null,
-                                  "id": 210,
+                                  "id": 107,
                                   "name": "msg",
                                   "nodeType": "Identifier",
                                   "overloadedDeclarations": [],
-                                  "referencedDeclaration": 277,
-                                  "src": "1086:3:2",
+                                  "referencedDeclaration": 174,
+                                  "src": "1086:3:1",
                                   "typeDescriptions": {
                                     "typeIdentifier": "t_magic_message",
                                     "typeString": "msg"
                                   }
                                 },
-                                "id": 211,
+                                "id": 108,
                                 "isConstant": false,
                                 "isLValue": false,
                                 "isPure": false,
@@ -2120,7 +2120,7 @@
                                 "memberName": "sender",
                                 "nodeType": "MemberAccess",
                                 "referencedDeclaration": null,
-                                "src": "1086:10:2",
+                                "src": "1086:10:1",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_address",
                                   "typeString": "address"
@@ -2128,12 +2128,12 @@
                               },
                               {
                                 "argumentTypes": null,
-                                "id": 212,
+                                "id": 109,
                                 "name": "now",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 279,
-                                "src": "1098:3:2",
+                                "referencedDeclaration": 176,
+                                "src": "1098:3:1",
                                 "typeDescriptions": {
                                   "typeIdentifier": "t_uint256",
                                   "typeString": "uint256"
@@ -2151,18 +2151,18 @@
                                   "typeString": "uint256"
                                 }
                               ],
-                              "id": 209,
+                              "id": 106,
                               "name": "OwnershipTime",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 173,
-                              "src": "1072:13:2",
+                              "referencedDeclaration": 70,
+                              "src": "1072:13:1",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_type$_t_struct$_OwnershipTime_$173_storage_ptr_$",
+                                "typeIdentifier": "t_type$_t_struct$_OwnershipTime_$70_storage_ptr_$",
                                 "typeString": "type(struct ProofOfExistence.OwnershipTime storage pointer)"
                               }
                             },
-                            "id": 213,
+                            "id": 110,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": false,
@@ -2170,21 +2170,21 @@
                             "lValueRequested": false,
                             "names": [],
                             "nodeType": "FunctionCall",
-                            "src": "1072:30:2",
+                            "src": "1072:30:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_OwnershipTime_$173_memory",
+                              "typeIdentifier": "t_struct$_OwnershipTime_$70_memory",
                               "typeString": "struct ProofOfExistence.OwnershipTime memory"
                             }
                           },
-                          "src": "1043:59:2",
+                          "src": "1043:59:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                            "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                             "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                           }
                         },
-                        "id": 215,
+                        "id": 112,
                         "nodeType": "ExpressionStatement",
-                        "src": "1043:59:2"
+                        "src": "1043:59:1"
                       }
                     ]
                   }
@@ -2193,14 +2193,14 @@
                   "expression": {
                     "argumentTypes": null,
                     "hexValue": "74727565",
-                    "id": 221,
+                    "id": 118,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
                     "kind": "bool",
                     "lValueRequested": false,
                     "nodeType": "Literal",
-                    "src": "1173:4:2",
+                    "src": "1173:4:1",
                     "subdenomination": null,
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
@@ -2208,15 +2208,15 @@
                     },
                     "value": "true"
                   },
-                  "functionReturnParameters": 179,
-                  "id": 222,
+                  "functionReturnParameters": 76,
+                  "id": 119,
                   "nodeType": "Return",
-                  "src": "1166:11:2"
+                  "src": "1166:11:1"
                 }
               ]
             },
             "documentation": "@dev Adds a photo's SHA256 hash to a map\n@param photoHash  SHA256 hash of the photo that will be the key to OwnershipTime which is set in the method\n@return bool based on success or failure of photoHash insertion",
-            "id": 224,
+            "id": 121,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -2224,16 +2224,16 @@
             "name": "addPhotoToMap",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 176,
+              "id": 73,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 175,
+                  "id": 72,
                   "name": "photoHash",
                   "nodeType": "VariableDeclaration",
-                  "scope": 224,
-                  "src": "791:16:2",
+                  "scope": 121,
+                  "src": "791:16:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2241,10 +2241,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 174,
+                    "id": 71,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "791:6:2",
+                    "src": "791:6:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -2254,20 +2254,20 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "790:18:2"
+              "src": "790:18:1"
             },
             "payable": false,
             "returnParameters": {
-              "id": 179,
+              "id": 76,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 178,
+                  "id": 75,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 224,
-                  "src": "825:4:2",
+                  "scope": 121,
+                  "src": "825:4:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2275,10 +2275,10 @@
                     "typeString": "bool"
                   },
                   "typeName": {
-                    "id": 177,
+                    "id": 74,
                     "name": "bool",
                     "nodeType": "ElementaryTypeName",
-                    "src": "825:4:2",
+                    "src": "825:4:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
@@ -2288,32 +2288,32 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "824:6:2"
+              "src": "824:6:1"
             },
-            "scope": 262,
-            "src": "768:416:2",
+            "scope": 159,
+            "src": "768:416:1",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 260,
+              "id": 157,
               "nodeType": "Block",
-              "src": "1575:270:2",
+              "src": "1575:270:1",
               "statements": [
                 {
                   "assignments": [
-                    232
+                    129
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 232,
+                      "id": 129,
                       "name": "byteStr",
                       "nodeType": "VariableDeclaration",
-                      "scope": 261,
-                      "src": "1585:20:2",
+                      "scope": 158,
+                      "src": "1585:20:1",
                       "stateVariable": false,
                       "storageLocation": "memory",
                       "typeDescriptions": {
@@ -2321,10 +2321,10 @@
                         "typeString": "bytes"
                       },
                       "typeName": {
-                        "id": 231,
+                        "id": 128,
                         "name": "bytes",
                         "nodeType": "ElementaryTypeName",
-                        "src": "1585:5:2",
+                        "src": "1585:5:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_storage_ptr",
                           "typeString": "bytes"
@@ -2334,18 +2334,18 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 236,
+                  "id": 133,
                   "initialValue": {
                     "argumentTypes": null,
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 234,
+                        "id": 131,
                         "name": "photoHash",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 226,
-                        "src": "1614:9:2",
+                        "referencedDeclaration": 123,
+                        "src": "1614:9:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_string_memory_ptr",
                           "typeString": "string memory"
@@ -2359,20 +2359,20 @@
                           "typeString": "string memory"
                         }
                       ],
-                      "id": 233,
+                      "id": 130,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "lValueRequested": false,
                       "nodeType": "ElementaryTypeNameExpression",
-                      "src": "1608:5:2",
+                      "src": "1608:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_type$_t_bytes_storage_ptr_$",
                         "typeString": "type(bytes storage pointer)"
                       },
                       "typeName": "bytes"
                     },
-                    "id": 235,
+                    "id": 132,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2380,14 +2380,14 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1608:16:2",
+                    "src": "1608:16:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_memory",
                       "typeString": "bytes memory"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "1585:39:2"
+                  "src": "1585:39:1"
                 },
                 {
                   "expression": {
@@ -2399,7 +2399,7 @@
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
                         },
-                        "id": 241,
+                        "id": 138,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -2408,18 +2408,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 238,
+                            "id": 135,
                             "name": "byteStr",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 232,
-                            "src": "1642:7:2",
+                            "referencedDeclaration": 129,
+                            "src": "1642:7:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_bytes_memory_ptr",
                               "typeString": "bytes memory"
                             }
                           },
-                          "id": 239,
+                          "id": 136,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -2427,7 +2427,7 @@
                           "memberName": "length",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1642:14:2",
+                          "src": "1642:14:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
@@ -2437,18 +2437,18 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 240,
+                          "id": 137,
                           "name": "photoHashLength",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 168,
-                          "src": "1660:15:2",
+                          "referencedDeclaration": 65,
+                          "src": "1660:15:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           }
                         },
-                        "src": "1642:33:2",
+                        "src": "1642:33:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -2462,21 +2462,21 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 237,
+                      "id": 134,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        280,
-                        281
+                        177,
+                        178
                       ],
-                      "referencedDeclaration": 280,
-                      "src": "1634:7:2",
+                      "referencedDeclaration": 177,
+                      "src": "1634:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 242,
+                    "id": 139,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2484,15 +2484,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1634:42:2",
+                    "src": "1634:42:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 243,
+                  "id": 140,
                   "nodeType": "ExpressionStatement",
-                  "src": "1634:42:2"
+                  "src": "1634:42:1"
                 },
                 {
                   "condition": {
@@ -2501,7 +2501,7 @@
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     },
-                    "id": 249,
+                    "id": 146,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2512,26 +2512,26 @@
                         "argumentTypes": null,
                         "baseExpression": {
                           "argumentTypes": null,
-                          "id": 244,
+                          "id": 141,
                           "name": "photoToOwnerMap",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 165,
-                          "src": "1690:15:2",
+                          "referencedDeclaration": 62,
+                          "src": "1690:15:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                            "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                             "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                           }
                         },
-                        "id": 246,
+                        "id": 143,
                         "indexExpression": {
                           "argumentTypes": null,
-                          "id": 245,
+                          "id": 142,
                           "name": "photoHash",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 226,
-                          "src": "1706:9:2",
+                          "referencedDeclaration": 123,
+                          "src": "1706:9:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_string_memory_ptr",
                             "typeString": "string memory"
@@ -2542,21 +2542,21 @@
                         "isPure": false,
                         "lValueRequested": false,
                         "nodeType": "IndexAccess",
-                        "src": "1690:26:2",
+                        "src": "1690:26:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                          "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                           "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                         }
                       },
-                      "id": 247,
+                      "id": 144,
                       "isConstant": false,
                       "isLValue": true,
                       "isPure": false,
                       "lValueRequested": false,
                       "memberName": "blockTime",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 172,
-                      "src": "1690:36:2",
+                      "referencedDeclaration": 69,
+                      "src": "1690:36:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -2567,14 +2567,14 @@
                     "rightExpression": {
                       "argumentTypes": null,
                       "hexValue": "30",
-                      "id": 248,
+                      "id": 145,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "kind": "number",
                       "lValueRequested": false,
                       "nodeType": "Literal",
-                      "src": "1730:1:2",
+                      "src": "1730:1:1",
                       "subdenomination": null,
                       "typeDescriptions": {
                         "typeIdentifier": "t_rational_0_by_1",
@@ -2582,16 +2582,16 @@
                       },
                       "value": "0"
                     },
-                    "src": "1690:41:2",
+                    "src": "1690:41:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     }
                   },
                   "falseBody": {
-                    "id": 258,
+                    "id": 155,
                     "nodeType": "Block",
-                    "src": "1771:68:2",
+                    "src": "1771:68:1",
                     "statements": [
                       {
                         "expression": {
@@ -2600,26 +2600,26 @@
                             "argumentTypes": null,
                             "baseExpression": {
                               "argumentTypes": null,
-                              "id": 253,
+                              "id": 150,
                               "name": "photoToOwnerMap",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 165,
-                              "src": "1792:15:2",
+                              "referencedDeclaration": 62,
+                              "src": "1792:15:1",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$173_storage_$",
+                                "typeIdentifier": "t_mapping$_t_string_memory_$_t_struct$_OwnershipTime_$70_storage_$",
                                 "typeString": "mapping(string memory => struct ProofOfExistence.OwnershipTime storage ref)"
                               }
                             },
-                            "id": 255,
+                            "id": 152,
                             "indexExpression": {
                               "argumentTypes": null,
-                              "id": 254,
+                              "id": 151,
                               "name": "photoHash",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 226,
-                              "src": "1808:9:2",
+                              "referencedDeclaration": 123,
+                              "src": "1808:9:1",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_string_memory_ptr",
                                 "typeString": "string memory"
@@ -2630,53 +2630,53 @@
                             "isPure": false,
                             "lValueRequested": false,
                             "nodeType": "IndexAccess",
-                            "src": "1792:26:2",
+                            "src": "1792:26:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_OwnershipTime_$173_storage",
+                              "typeIdentifier": "t_struct$_OwnershipTime_$70_storage",
                               "typeString": "struct ProofOfExistence.OwnershipTime storage ref"
                             }
                           },
-                          "id": 256,
+                          "id": 153,
                           "isConstant": false,
                           "isLValue": true,
                           "isPure": false,
                           "lValueRequested": false,
                           "memberName": "blockTime",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 172,
-                          "src": "1792:36:2",
+                          "referencedDeclaration": 69,
+                          "src": "1792:36:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           }
                         },
-                        "functionReturnParameters": 230,
-                        "id": 257,
+                        "functionReturnParameters": 127,
+                        "id": 154,
                         "nodeType": "Return",
-                        "src": "1785:43:2"
+                        "src": "1785:43:1"
                       }
                     ]
                   },
-                  "id": 259,
+                  "id": 156,
                   "nodeType": "IfStatement",
-                  "src": "1687:152:2",
+                  "src": "1687:152:1",
                   "trueBody": {
-                    "id": 252,
+                    "id": 149,
                     "nodeType": "Block",
-                    "src": "1732:33:2",
+                    "src": "1732:33:1",
                     "statements": [
                       {
                         "expression": {
                           "argumentTypes": null,
                           "hexValue": "30",
-                          "id": 250,
+                          "id": 147,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
                           "kind": "number",
                           "lValueRequested": false,
                           "nodeType": "Literal",
-                          "src": "1753:1:2",
+                          "src": "1753:1:1",
                           "subdenomination": null,
                           "typeDescriptions": {
                             "typeIdentifier": "t_rational_0_by_1",
@@ -2684,10 +2684,10 @@
                           },
                           "value": "0"
                         },
-                        "functionReturnParameters": 230,
-                        "id": 251,
+                        "functionReturnParameters": 127,
+                        "id": 148,
                         "nodeType": "Return",
-                        "src": "1746:8:2"
+                        "src": "1746:8:1"
                       }
                     ]
                   }
@@ -2695,7 +2695,7 @@
               ]
             },
             "documentation": "@dev Uses the photo's SHA256 hash to retrieve the blocktime that was set for it in addPhotoToMap(photoHash);\n@param photoHash SHA256 hash of the photo that was used to verify identity\n@return The photo's blocktime or 0 on failure. (using 0 instead of -1 cause blockTime is a uint)",
-            "id": 261,
+            "id": 158,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": true,
@@ -2703,16 +2703,16 @@
             "name": "getPhotoTimestamp",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 227,
+              "id": 124,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 226,
+                  "id": 123,
                   "name": "photoHash",
                   "nodeType": "VariableDeclaration",
-                  "scope": 261,
-                  "src": "1531:16:2",
+                  "scope": 158,
+                  "src": "1531:16:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2720,10 +2720,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 225,
+                    "id": 122,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "1531:6:2",
+                    "src": "1531:6:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -2733,20 +2733,20 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "1530:18:2"
+              "src": "1530:18:1"
             },
             "payable": false,
             "returnParameters": {
-              "id": 230,
+              "id": 127,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 229,
+                  "id": 126,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 261,
-                  "src": "1569:4:2",
+                  "scope": 158,
+                  "src": "1569:4:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2754,10 +2754,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 228,
+                    "id": 125,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "1569:4:2",
+                    "src": "1569:4:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -2767,20 +2767,20 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "1568:6:2"
+              "src": "1568:6:1"
             },
-            "scope": 262,
-            "src": "1504:341:2",
+            "scope": 159,
+            "src": "1504:341:1",
             "stateMutability": "view",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 263,
-        "src": "66:1781:2"
+        "scope": 160,
+        "src": "66:1781:1"
       }
     ],
-    "src": "0:1847:2"
+    "src": "0:1847:1"
   },
   "compiler": {
     "name": "solc",
@@ -2807,5 +2807,5 @@
     }
   },
   "schemaVersion": "2.0.1",
-  "updatedAt": "2018-08-27T22:23:33.372Z"
+  "updatedAt": "2018-08-28T02:38:26.052Z"
 }
