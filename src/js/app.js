@@ -27,7 +27,6 @@ App = {
         App.contracts.ProofOfExistence = TruffleContract(poeArtifact);
 
         // Set the provider for our contract
-        console.log("App.web3Provider: " + App.web3Provider);
         App.contracts.ProofOfExistence.setProvider(App.web3Provider);
 
         return;
@@ -43,25 +42,27 @@ App = {
     },
 
     setPhotoHash: function(event){
-      var file = fileInput.files[0];
-      var imageType = /image.*/;
+        $("#dateOutput").text("");
+        $("#importantQuestion").text("");
+        var file = fileInput.files[0];
+        var imageType = /image.*/;
 
-      if (file.type.match(imageType)) {
-        var reader = new FileReader();
+        if (file.type.match(imageType)) {
+            var reader = new FileReader();
 
-        reader.onload = function(e) {
-          fileDisplayArea.innerHTML = "";
+            reader.onload = function(e) {
+                fileDisplayArea.innerHTML = "";
 
-          var img = new Image();
-          img.src = reader.result;
-          photoHash = sha256(reader.result);
-          fileDisplayArea.appendChild(img);
+                var img = new Image();
+                img.src = reader.result;
+                photoHash = sha256(reader.result);
+                fileDisplayArea.appendChild(img);
+            }
+
+            reader.readAsDataURL(file);
+        } else {
+            fileDisplayArea.innerHTML = "File not supported!"
         }
-
-        reader.readAsDataURL(file);
-      } else {
-        fileDisplayArea.innerHTML = "File not supported!"
-      }
     },
 
     addPhotoHash: function(event) {
@@ -78,6 +79,7 @@ App = {
 
         App.contracts.ProofOfExistence.deployed().then(function(instance) {
           existenceProofInstance = instance;
+          
           // Add photo's hash to the map
           return photoHash != '' ? existenceProofInstance.addPhotoToMap(photoHash, {from: account}) : 0;
         }).then(function(result) {
@@ -122,6 +124,7 @@ App = {
           } else {
             // Date posted does not exist so we reset the posted text
             $("#dateOutput").text("The photo has not been submitted yet.");
+            $("#importantQuestion").text("");
           }
           return;
         }).catch(function(err) {
