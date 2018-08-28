@@ -12,8 +12,11 @@ My project takes the SHA256 hash and stores that as the key for the owner and ti
 
 To run:
 start ganache-cli
+
 go to project directory and run truffle compile
+
 then run truffle migrate
+
 then npm run dev
 
 localhost will be used as the server for testing.
