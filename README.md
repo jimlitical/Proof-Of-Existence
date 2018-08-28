@@ -20,3 +20,6 @@ then run truffle migrate
 then npm run dev
 
 localhost will be used as the server for testing.
+
+
+*LibraryDemo / SafeMathLib are just for demo. They will have compiler warnings.
